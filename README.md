@@ -2,7 +2,7 @@
 This project is part of Research Project : Uncertainty Quantification for Reinforcement Learning, as a part of PhD research in WIAS
 
 
-*TODO for CVAE
+**TODO for CVAE**
 
 1. Experiment with full Cov Gauss posterior vs Factorized ones
 ref
@@ -11,7 +11,7 @@ https://arxiv.org/pdf/1906.02691.pdf
 
 =======================================================
 
-*Roadmap for CVAE experimentation*
+**Roadmap for CVAE experimentation**
 
 Next steps
 This tutorial has demonstrated how to implement a convolutional variational autoencoder using TensorFlow.
